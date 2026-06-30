@@ -20,7 +20,7 @@ Designed for industrial and IoT prototyping applications.
 
 ## Schematic
 
-![Schematic](schematic/Telemonitoring.png)
+![Schematic](Telemonitoring.png)
 
 ---
 
